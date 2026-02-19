@@ -267,6 +267,6 @@ src/main/java/com/example/langgraph/
 ## Dependency Versions
 
 > **Note:** If build fails, check for latest versions:
-> - [LangGraph4J on Maven Central](https://central.sonatype.com/search?q=langgraph4j)
-> - [Spring AI Releases](https://docs.spring.io/spring-ai/reference/)
+> - [LangGraph4J](https://github.com/langgraph4j/langgraph4j)
+> - [Spring AI](https://docs.spring.io/spring-ai/reference/)
 > - Update version properties in `pom.xml` accordingly.
